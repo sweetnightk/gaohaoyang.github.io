@@ -12,7 +12,7 @@ author: HyG
 ## 起因
 
 ![test5](/../favicon.ico)
-![test6](/../_img/favicon.ico)
+![test7](/../img/favicon.ico)
 
 不知道大家是怎样安排自己的日常计划的，我习惯是建立一个仓库，按照年/周记录在 markdown 里，平时这个仓库也写点简单的 demo，目录类似如下：
 
