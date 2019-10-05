@@ -11,13 +11,21 @@ author: HyG
 
 ## 起因
 
+
+![test5](/img/favicon.ico)
+
+
+
+
+
+
 ![test5](/../favicon.ico)
 
 ![test7](/../img/favicon.ico)
 
 ![test10](/../img-in-post/2019-10-05-네트워크의-기본-TCP-IP-1.png)
 
-![test11](/../img-in-post/2019-10-05-basic-of-network-TCP-IP-1.png)
+![test11](/./img-in-post/2019-10-05-basic-of-network-TCP-IP-1.png)
 
 ![test8](/../img/2019-10-05-네트워크의-기본-TCP-IP-1.png)
 
