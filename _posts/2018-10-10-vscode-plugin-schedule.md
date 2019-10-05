@@ -12,7 +12,12 @@ author: HyG
 ## 起因
 
 ![test5](/../favicon.ico)
+
 ![test7](/../img/favicon.ico)
+
+![test8](/../img/2019-10-05-네트워크의-기본-TCP-IP-1.png)
+
+![test9](/../img/2019-10-05-basic-of-network-TCP-IP-1.png)
 
 不知道大家是怎样安排自己的日常计划的，我习惯是建立一个仓库，按照年/周记录在 markdown 里，平时这个仓库也写点简单的 demo，目录类似如下：
 
