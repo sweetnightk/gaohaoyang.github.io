@@ -15,7 +15,7 @@ author: HyG
 
 
 ![test14](/_post/img/icons8-princess-bubblegum-48.png)
-![test15](/_post/img/icons8-princess-bubblegum-48.png)
+![test15](_post/img/icons8-princess-bubblegum-48.png)
 
 ![test5](/img/favicon.ico)
 
