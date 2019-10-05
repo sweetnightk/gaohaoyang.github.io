@@ -15,6 +15,10 @@ author: HyG
 
 ![test7](/../img/favicon.ico)
 
+![test10](/./img/2019-10-05-네트워크의-기본-TCP-IP-1.png)
+
+![test11](/./img/2019-10-05-basic-of-network-TCP-IP-1.png)
+
 ![test8](/../img/2019-10-05-네트워크의-기본-TCP-IP-1.png)
 
 ![test9](/../img/2019-10-05-basic-of-network-TCP-IP-1.png)
