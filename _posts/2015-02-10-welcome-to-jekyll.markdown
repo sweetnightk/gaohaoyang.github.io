@@ -32,6 +32,11 @@ Block Mathjax
 
 $$
 f(x) = ax + b
+f(x) = ax + b
+f(x) = ax + b
+f(x) = ax + b
+f(x) = ax + b
+f(x) = ax + b
 $$
 
 Inline Mathjax $a \neq b$
