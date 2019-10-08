@@ -11,6 +11,22 @@ author: HyG
 
 ## 起因
 
+| A simple | table |
+| with multiple | lines |
+
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
+
+
 hello1
 
 **hello2**
